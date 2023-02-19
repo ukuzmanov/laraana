@@ -14,8 +14,9 @@
     <div id="wrapper" class="fade-in">
       <!-- Intro -->
       <div id="intro">
-        <h1>LARAANA</h1>
-        <img class="main" src="screen1.png" alt="" style="width: 390px; height: 355px;">
+        <h1><br>
+        </h1>
+        <img class="main" src="screen1.png" alt="" style="width: 500px; height: 420px;">
         <h2>Kuzmanov Family Base Page</h2>
         <ul class="actions">
           <li>
@@ -25,8 +26,7 @@
         </ul>
       </div>
       <!-- Header -->
-      <header id="header"> <a href="index.html" class="logo" styel="color: black"
-
+      <header id="header"> <a href="index.html" class="logo" styel="color: black"
           style="font-family: Perpetua;">ACCESS MS</a> </header>
       <!-- Nav -->
       <nav id="nav">
@@ -143,10 +143,8 @@
         <footer>
           <div class="pagination">
             <!--<a href="#" class="previous">Prev</a>--> <a href="#" class="page active">1</a>
-            <a href="#" class="page">2</a> <a href="#" class="page">3</a> <span
-
-              class="extra">…</span> <a href="#" class="page">8</a> <a href="#"
-
+            <a href="#" class="page">2</a> <a href="#" class="page">3</a> <span
+              class="extra">…</span> <a href="#" class="page">8</a> <a href="#"
               class="page">9</a> <a href="#" class="page">10</a> <a href="#" class="next">Next</a>
           </div>
         </footer>
@@ -156,14 +154,11 @@
         <section>
           <form method="post" action="#">
             <div class="fields">
-              <div class="field"> <label for="name">Name</label> <input name="name"
-
+              <div class="field"> <label for="name">Name</label> <input name="name"
                   id="name" type="text"> </div>
-              <div class="field"> <label for="email">Email</label> <input name="email"
-
+              <div class="field"> <label for="email">Email</label> <input name="email"
                   id="email" type="text"> </div>
-              <div class="field"> <label for="message">Message</label> <textarea
-
+              <div class="field"> <label for="message">Message</label> <textarea
 name="message" id="message" rows="3"></textarea> </div>
             </div>
             <ul class="actions">
