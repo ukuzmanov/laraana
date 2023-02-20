@@ -16,21 +16,15 @@
       <div id="intro">
         <h1><br>
         </h1>
-        <img class="main" src="screen1.png" alt="" style="width: 460px; height: 400px;">
+        <img class="main" src="screen1.png" alt="" style="width: 426px; height: 370px;">
         <h2><br>
         </h2>
-        <ul class="actions">
-          <li>
-            <h2><span style="color: #3d3d3d;"><span style="font-family: PMingLiU-ExtB;">
-                </span></span></h2>
-            <a href="#header" class="button icon solid solo fa-arrow-down scrolly">Continue</a></li>
-        </ul>
       </div>
+      <br>
       <!-- Header -->
-      <header id="header"><a href="index.html" class="logo" styel="color: black"
-
-          style="font-family: Perpetua;">WE ARE THE KUZMANOV GIRLS AND WE
-          LOVE...</a> </header>
+      <header id="header">
+        <h1>WE ARE THE KUZMANOV GIRLS AND WE LOVE...</h1>
+      </header>
       <!-- Nav -->
       <nav id="nav">
         <ul class="links">
@@ -50,8 +44,8 @@
         <!-- Featured Post -->
         <article class="post featured">
           <header class="major"> <span class="date"></span>
-            <h2><a href="#">...to chillax<br>
-                </a></h2>
+            <h2><a href="#"><span style="color: white;">...to chillax</span><br>
+              </a></h2>
             <p></p>
           </header>
           <a href="#" class="image main"><img src="images/pic01.JPG" alt=""></a>
@@ -63,7 +57,7 @@
         <section class="posts">
           <article>
             <header> <span class="date"></span>
-              <h2><a href="#">...to skate</a></h2>
+              <h2><span style="color: white;"><a href="#">...to skate</a></span></h2>
             </header>
             <a href="#" class="image fit"><img src="images/pic02.JPG" alt=""></a>
             <p></p>
@@ -73,7 +67,7 @@
           </article>
           <article>
             <header> <span class="date"></span>
-              <h2><a href="#">...to sleep.</a></h2>
+              <h2><span style="color: white;"><a href="#">...to sleep.</a></span></h2>
             </header>
             <a href="#" class="image fit"><img src="images/pic03.JPG" alt=""></a>
             <p></p>
@@ -83,9 +77,11 @@
           </article>
           <article>
             <header> <span class="date"></span>
-              <h2><a href="#">...to climb.</h2>
-            </header>
-            <a href="#" class="image fit"><img src="images/pic04.JPG" alt=""></a>
+              <h2><span style="color: white;"><a href="#">...to climb.</a></span></h2>
+              <a href="#"> </a></header>
+            <a href="#"> </a><a href="#" class="image fit"><img src="images/pic04.JPG"
+
+                alt=""></a>
             <p></p>
             <ul class="actions special">
               <li><a href="#" class="button">Full Story</a></li>
@@ -93,7 +89,7 @@
           </article>
           <article>
             <header> <span class="date"></span>
-              <h2><a href="#">...to drink beer.</a></h2>
+              <h2><span style="color: white;"><a href="#">...to drink beer.</a></span></h2>
             </header>
             <a href="#" class="image fit"><img src="images/pic05.JPG" alt=""></a>
             <p></p>
@@ -103,7 +99,7 @@
           </article>
           <article>
             <header> <span class="date"></span>
-              <h2><a href="#">...and whiskey!</a></h2>
+              <h2><span style="color: white;"><a href="#">...and whiskey!</a></span></h2>
             </header>
             <a href="#" class="image fit"><img src="images/pic06.JPG" alt=""></a>
             <p></p>
@@ -113,7 +109,7 @@
           </article>
           <article>
             <header> <span class="date"></span>
-              <h2><a href="#">...philosophy.</a></h2>
+              <h2><span style="color: white;"><a href="#">...philosophy.</a></span></h2>
             </header>
             <a href="#" class="image fit"><img src="images/pic07.JPG" alt=""></a>
             <p></p>
