@@ -16,7 +16,7 @@
       <div id="intro">
         <h1><br>
         </h1>
-        <img class="main" src="screen1.png" alt="" style="width: 500px; height: 420px;">
+        <img class="main" src="screen1.png" alt="" style="width: 460px; height: 400px;">
         <h2><br>
         </h2>
         <ul class="actions">
